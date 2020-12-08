@@ -1,5 +1,6 @@
 # D3 Service for Angular
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/56726b15e430499ea5d05b8ef4f6261c)](https://app.codacy.com/gh/hhfdserth/d3-ng2-service?utm_source=github.com&utm_medium=referral&utm_content=hhfdserth/d3-ng2-service&utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.org/tomwanzek/d3-ng2-service.svg?branch=master)](https://travis-ci.org/tomwanzek/d3-ng2-service)
 
 ## Content
